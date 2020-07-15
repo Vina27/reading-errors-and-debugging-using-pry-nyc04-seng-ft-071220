@@ -1,7 +1,5 @@
 def plus_two(3)
-  num = 3
 	num + 2
-	sum = (num + 2)
-	sum 
+	num 
 	binding.pry
 end
